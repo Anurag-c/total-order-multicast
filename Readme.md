@@ -176,16 +176,16 @@ socket.on("broadcast_event", async (data) => {
 #### Multiple Test runs with 3 Applications
 
 <p align="center">
-    <img src="./images/image-5.png" width="500"/><br>
-    <img src="./images/image-6.png" width="500"/><br>
-    <img src="./images/image-7.png" width="500"/><br>
+    <img src="./images/image-5.png" width="300"/><br>
+    <img src="./images/image-6.png" width="300"/><br>
+    <img src="./images/image-7.png" width="300"/><br>
 </p>
 
 #### Test with 10 Applications
 
 <p align="center">
-    <img src="./images/image.png" width="500"/><br>
-    <img src="./images/image-1.png" width="500"/><br>
-    <img src="./images/image-2.png" width="500"/><br>
-    <img src="./images/image-4.png" width="500"/><br>
+    <img src="./images/image.png" width="300"/><br>
+    <img src="./images/image-1.png" width="300"/><br>
+    <img src="./images/image-2.png" width="300"/><br>
+    <img src="./images/image-4.png" width="300"/><br>
 </p>
